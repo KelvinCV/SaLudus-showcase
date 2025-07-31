@@ -40,10 +40,10 @@ By using Google Health Connect, SaLudus accesses aggregated health data collecte
 
 ## Tech Stack
 
-- Dart  
-- Flutter Framework  
-- Google Health Connect API  
-- SQLite (local database)
+- Dart: https://dart.dev/  
+- Flutter Framework: https://www.flutter.dev  
+- Google Health Connect API: (https://health.google/health-connect-android/) (https://pub.dev/packages/health)  
+- SQLite (local database): https://sqlite.org/
 
 ---
 
